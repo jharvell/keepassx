@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>KeePassX is distributed under the term of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-        <translation>KeePassX est distribuée sous la gouvernance de GNU General Public License (GPL) révision 2 ou (à votre choix) révision 3.</translation>
+        <translation>KeePassX est distribué sous la gouvernance de la License Général Publique (GPL) de GNU révision 2 ou (au choix) révision 3.</translation>
     </message>
 </context>
 <context>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Sequence</source>
-        <translation>Série</translation>
+        <translation>Séquence</translation>
     </message>
     <message>
         <source>Default sequence</source>
@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Select entry to Auto-Type:</source>
-        <translation>Choisissez une entrée à taper automatiquement : </translation>
+        <translation>Choisir une entrée à taper automatiquement : </translation>
     </message>
 </context>
 <context>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Create Key File...</source>
-        <translation>Créer le fichier de clé</translation>
+        <translation>Créer un fichier de clé</translation>
     </message>
     <message>
         <source>Error</source>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>Unable to create Key File : </source>
-        <translation>La création du fichier de clé a ratée</translation>
+        <translation>Création du fichier de clé a échoué</translation>
     </message>
     <message>
         <source>Select a key file</source>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Do you really want to use an empty string as password?</source>
-        <translation>Voulez-vous vraiment utiliser une chaîne de caractères vide comme mot de passe?</translation>
+        <translation>Voulez-vous vraiment choisir une chaîne de caractères vide comme mot de passe?</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
@@ -134,111 +134,111 @@
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Ouverture de la base de données ratée</translation>
+        <translation>Ouverture de la base de données a échoué.</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>Schlüsseldatein kann nicht geöffnet werden</translation>
+        <translation>Ouverture du fichier clé a échoué.</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Tous les fichiers</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Schlüsseldateien</translation>
+        <translation>Fichiers de clé</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>Schlüsseldatei auswählen</translation>
+        <translation>Choisir le fichier de clé</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidget</name>
     <message>
         <source>Database name:</source>
-        <translation>Datenbankname:</translation>
+        <translation>Nom de la base de donées : </translation>
     </message>
     <message>
         <source>Database description:</source>
-        <translation>Datenbankbeschreibung:</translation>
+        <translation>Description de la base de donées : </translation>
     </message>
     <message>
         <source>Transform rounds:</source>
-        <translation>Verschlüsselungsdurchläufe:</translation>
+        <translation>Tours de transformation : </translation>
     </message>
     <message>
         <source>Default username:</source>
-        <translation>Standardbenutzername:</translation>
+        <translation>Nom d'utilisateur par défaut : </translation>
     </message>
     <message>
         <source>Use recycle bin:</source>
-        <translation>Verwende Papierkorb:</translation>
+        <translation>Utiliser la corbeille : </translation>
     </message>
     <message>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation> Mio</translation>
     </message>
     <message>
         <source>Benchmark</source>
-        <translation>Benchmark</translation>
+        <translation>Selon la vitesse de cette ordinateur</translation>
     </message>
     <message>
         <source>Max. history items:</source>
-        <translation>Max Einträge im Verlauf:</translation>
+        <translation>№ d'entrées de l'historique maximum : </translation>
     </message>
     <message>
         <source>Max. history size:</source>
-        <translation>Max. Verlaufsgröße:</translation>
+        <translation>Taille de l'historique maximum : </translation>
     </message>
 </context>
 <context>
     <name>DatabaseTabWidget</name>
     <message>
         <source>Root</source>
-        <translation>Root</translation>
+        <translation>Racine</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>KeePass 2 Datenbank</translation>
+        <translation>KeePass 2 Base de données</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Tous les fichiers</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>Datenbank öffnen</translation>
+        <translation>Ouvrir la base de données</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Warnung</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation>Datei nicht gefunden!</translation>
+        <translation>Fichier introuvable!</translation>
     </message>
     <message>
         <source>Open KeePass 1 database</source>
-        <translation>KeePass 1 Datenbank öffnen</translation>
+        <translation>Ouvrir KeePass 1 base de données</translation>
     </message>
     <message>
         <source>KeePass 1 database</source>
-        <translation>KeePass 1 Datenbank</translation>
+        <translation>KeePass 1 base de données</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>Alle Dateien (*)</translation>
+        <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
         <source>Close?</source>
-        <translation>Schließen?</translation>
+        <translation>Fermer?</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is in edit mode.
 Close anyway?</source>
-        <translation>&quot;%1&quot; wird bearbeitet.
-Trotzdem schließen?</translation>
+        <translation>&quot;%1&quot; est en mode d'édition.
+Fermer quand même?</translation>
     </message>
     <message>
         <source>Save changes?</source>
